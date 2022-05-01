@@ -10,6 +10,8 @@
 
 <h1>pagina inicio</h1>
 
-<a href="muestraFormulario">IR A formulario</a>
+<a href="principal/muestraFormulario">IR A formulario</a>
+<a href="secundario/muestraFormulario">Ir a controlador secundat</a>
+
 </body>
 </html>
