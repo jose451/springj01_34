@@ -12,6 +12,8 @@
 
 <a href="principal/muestraFormulario">IR A formulario</a>
 <a href="secundario/muestraFormulario">Ir a controlador secundat</a>
+<br><br>
+<a href="alumno/muestraformulario"> Muestra el formulario del alumno</a>
 
 </body>
 </html>
