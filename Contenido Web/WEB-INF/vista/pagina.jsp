@@ -9,7 +9,7 @@
 <body>
 
 <h1>pagina inicio</h1>
-
+    <h2>pruava desde git</h2>
 <a href="principal/muestraFormulario">IR A formulario</a>
 <a href="secundario/muestraFormulario">Ir a controlador secundat</a>
 <br><br>
